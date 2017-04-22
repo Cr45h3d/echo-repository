@@ -5,12 +5,12 @@ Custom repository created for Echo.
 ## Table of Reference
 | Link  | Information  |
 | :---  | :---  |
-| [A.R.S Index](https://ars.xtclabs.net/index.html)  | A.R.S resource page  |
-| [Echo Repository](https://github.com/proxikal/EchoRepository)  | EchoRepository GitHub page  |
-| [Echo Documentation](https://github.com/proxikal/Echo)  | Echo documentation GitHub page  |
+| [A.R.S Docs](https://ars.xtclabs.net/index.html)  | A.R.S resource page  |
+| [Echo Repository](https://github.com/proxikal/EchoRepository)  | EchoRepository - GitHub  |
+| [Echo Documentation](https://github.com/proxikal/Echo)  | Echo documentation - GitHub  |
 | [Echo Source Code](https://github.com/proxikal/Frostbyte)  |  Frostbyte Discord bot  |
 |   |   |
-| [GitHub Markdown](https://guides.github.com/features/mastering-markdown/#syntax)  | GitHub markdown guide |
+| [GitHub Markdown](https://guides.github.com/features/mastering-markdown/#syntax)  | Markdown guide - GitHub  |
 | [JSON Lint](http://jsonlint.com/)  | JSON Validator  |
 | [JSON Formatter](https://jsonformatter.curiousconcept.com/)  | JSON Validator  |
 
