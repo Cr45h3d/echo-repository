@@ -5,7 +5,7 @@ Custom repository for Echo A.R.S.
 ## Table of Reference
 | Link  | Information  |
 | :--:  | :--:  |
-| [A.R.S Index](https://ars.xtclabs.net/index.html){:target="_blank"}  | A.R.S Index Page  |
+| [A.R.S Index](https://ars.xtclabs.net/index.html)  | A.R.S Resource Page  |
 
 
 
