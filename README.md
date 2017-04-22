@@ -1,4 +1,4 @@
-# ISTI Discord Bot Repository!
+# Echo Repository!
 
 Custom repository created for Echo.
 
