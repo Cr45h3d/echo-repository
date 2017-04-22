@@ -15,17 +15,17 @@ Custom repository for Echo.
 
 ## Examples
 
-*Syntax Highlight*
+#### Syntax Highlight
 ```php
 .auto &.pmtest={init}
 import "system/messages"
 call::UserMessageSend({rawid}, Testing the import PMS!);
 ```
 
-*Inline Code* 
+#### Inline Code
 `messages.json`
 
-*Task List*
+#### Task List
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
