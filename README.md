@@ -1,11 +1,13 @@
 # Echo Repository!
 
-Custom repository for Echo A.R.S.
+Custom repository for Echo.
 
 ## Table of Reference
 | Link  | Information  |
 | :--:  | :--:  |
 | [A.R.S Index](https://ars.xtclabs.net/index.html)  | A.R.S Resource Page  |
+| [Echo Repository](https://github.com/proxikal/EchoRepository)  | EchoRepository GitHub Page  |
+| [Echo Documentation](https://github.com/proxikal/Echo)  | Echo Documentation GitHub Page  |
 
 
 
