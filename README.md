@@ -9,8 +9,8 @@ Custom repository for Echo.
 | [Echo Repository](https://github.com/proxikal/EchoRepository)  | EchoRepository GitHub page  |
 | [Echo Documentation](https://github.com/proxikal/Echo)  | Echo documentation GitHub page  |
 | [GitHub Markdown](https://guides.github.com/features/mastering-markdown/#syntax)  | GitHub markdown guide |
-| [JSON Validator](http://jsonlint.com/)  | Syntax Check  |
-| [JSON Validator](https://jsonformatter.curiousconcept.com/)  | Syntax Check  |
+| [JSON Lint](http://jsonlint.com/)  | JSON Validator  |
+| [JSON Formatter](https://jsonformatter.curiousconcept.com/)  | JSON Validator  |
 
 
 
