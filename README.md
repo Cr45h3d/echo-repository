@@ -5,10 +5,12 @@ Custom repository for Echo.
 ## Table of Reference
 | Link  | Information  |
 | :---  | :---  |
-| [A.R.S Index](https://ars.xtclabs.net/index.html)  | A.R.S Resource Page  |
-| [Echo Repository](https://github.com/proxikal/EchoRepository)  | EchoRepository GitHub Page  |
-| [Echo Documentation](https://github.com/proxikal/Echo)  | Echo Documentation GitHub Page  |
-| [GitHub Markdown](https://guides.github.com/features/mastering-markdown/#syntax)  | GitHub Markdown Guide |
+| [A.R.S Index](https://ars.xtclabs.net/index.html)  | A.R.S resource page  |
+| [Echo Repository](https://github.com/proxikal/EchoRepository)  | EchoRepository GitHub page  |
+| [Echo Documentation](https://github.com/proxikal/Echo)  | Echo documentation GitHub page  |
+| [GitHub Markdown](https://guides.github.com/features/mastering-markdown/#syntax)  | GitHub markdown guide |
+| [JSON Validator](http://jsonlint.com/)  | Syntax Check  |
+| [JSON Validator](https://jsonformatter.curiousconcept.com/)  | Syntax Check  |
 
 
 
