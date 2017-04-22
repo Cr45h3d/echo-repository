@@ -11,7 +11,7 @@ Custom repository for Echo.
 | [GitHub Markdown](https://guides.github.com/features/mastering-markdown/#syntax)  | GitHub markdown guide |
 | [JSON Lint](http://jsonlint.com/)  | JSON Validator  |
 | [JSON Formatter](https://jsonformatter.curiousconcept.com/)  | JSON Validator  |
-| [Echo Framework](https://github.com/bwmarrin/discordgo)  |  DiscordGo Framework  |
+| [Echo Source Code](https://github.com/proxikal/Frostbyte)  |  Frostbyte Discord bot  |
 
 
 
