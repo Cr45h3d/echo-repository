@@ -1,6 +1,6 @@
-# Echo Repository!
+# A custom repository for Echo!
 
-Custom repository created for Echo.
+Still in Development, 
 
 ## Table of Reference
 | Link  | Information  |
