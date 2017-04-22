@@ -1,29 +1,12 @@
-.auto .server={init}
-{embed:
-    {title:{guild|name}}
-    {type:rich}
-    {author|name:{owner|name}}
-    {author|icon:{owner|avatar}}
-    {author|url:{owner|avatar}}
-    {color:
-        {randlist:
-             #ff0000,#00ff00,#ffffff,#4286f4,
-             #f45642,#262525,#e2d626,#87e226,
-             #26e2c0,#2633e2,#8126e2
-        }
+{
+    "Defines": [
+    {
+        "Name": "serverinfo",
+        "Params": [
+          "TitleText",
+          "FooterIcon",
+          "FooterText"
+        ],
+        "Content": "{embed:\n    {title:{0}}\n    {type:rich}\n    {author|name:{owner|name}}\n    {author|icon:{owner|avatar}}\n    {author|url:{owner|avatar}}\n    {color:\n        {randlist:\n             #ff0000,#00ff00,#ffffff,#4286f4,\n             #f45642,#262525,#e2d626,#87e226,\n             #26e2c0,#2633e2,#8126e2\n        }\n    }\n    {thumb|url:{guild|icon}}\n    {desc:\n───────────────────────\n× ID:                     {guild|id}\n× Region:             {guild|region}\n× OwnerID:        {owner|id}\n× Discord Icon:  [Click to view Guild Icon]({guild|icon})\n× Members:       {membercount}\n× Channels:        {channelcount}\n× Roles:               {rolecount}\n───────────────────────\n    }\n    {footer|icon:{1}}\n    {footer|text:{2}}\n}"
     }
-    {thumb|url:{guild|icon}}
-    {desc:
-───────────────────────
-× ID:                     {guild|id}
-× Region:             {guild|region}
-× OwnerID:        {owner|name}
-× Discord Icon:  [Click to view Guild Icon]({guild|icon})
-× Members:       {membercount}
-× Channels:        {channelcount}
-× Roles:               {rolecount}
-───────────────────────
-    }
-    {footer|icon:🏁}
-    {footer|text:[IAMRC](https://robertsspaceindustries.com/orgs/IAMRC/) | RSI Org}
-};
+]}
